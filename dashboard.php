@@ -46,7 +46,7 @@ try {
     <link rel="stylesheet" href="assets/css/challenges.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUtbajb0ykdFBVRJGuuHyKReSO1cdshns&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=your_api&libraries=places"></script>
     <script>
         // Set user ID for JavaScript
         window.currentUserId = <?php echo $_SESSION['user_id']; ?>;
