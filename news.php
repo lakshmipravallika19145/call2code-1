@@ -3,7 +3,7 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST');
 header('Access-Control-Allow-Headers: Content-Type');
-define('NEWS_API_KEY', '0ee33f34a5f241e0bc4657c964792958');
+define('NEWS_API_KEY', 'your_api');
 define('NEWS_BASE_URL', 'https://newsapi.org/v2');
 
 require_once '../config/database.php';
