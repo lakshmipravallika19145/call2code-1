@@ -3,7 +3,7 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST');
 header('Access-Control-Allow-Headers: Content-Type');
-define('GIPHY_API_KEY', 'OQjUSsbmhJDk2QU8DO0nksUjpx3O5BcQ');
+define('GIPHY_API_KEY', 'your_api');
 define('GIPHY_BASE_URL', 'https://api.giphy.com/v1/gifs');
 
 require_once '../config/database.php';
