@@ -3,7 +3,7 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST');
 header('Access-Control-Allow-Headers: Content-Type');
-define('OPENWEATHER_API_KEY', 'e87cd054193c5d6df783af53cbc77b45');
+define('OPENWEATHER_API_KEY', 'your_api');
 define('OPENWEATHER_BASE_URL', 'https://api.openweathermap.org/data/2.5');
 
 require_once '../config/database.php';
