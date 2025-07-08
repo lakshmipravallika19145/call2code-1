@@ -22,7 +22,7 @@ if ($isLoggedIn) {
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUtbajb0ykdFBVRJGuuHyKReSO1cdshns&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=you_api&libraries=places"></script>
 </head>
 <body class="light-mode">
     <!-- Navigation -->
